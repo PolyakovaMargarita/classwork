@@ -1,5 +1,5 @@
-< Bean: object with dependencies managed by Spring IoC container
-< IoC Container: helps inject dependencies to object and make it ready to use
+> Bean: object with dependencies managed by Spring IoC container
+> IoC Container: helps inject dependencies to object and make it ready to use
 
 1) Print different messages based on configuration (using setters)
 
